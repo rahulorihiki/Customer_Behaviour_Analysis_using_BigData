@@ -31,7 +31,7 @@ The dataset consists of the following columns:
 
 ## Installation
 
-## Features
+## Insights
 
 1. **Data Cleaning and Visualization**:
 
