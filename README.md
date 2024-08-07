@@ -3,6 +3,15 @@
 A retail company “ABC Private Limited” wants to understand the customer purchase behaviour (specifically, purchase amount) against various products of different categories. They have shared purchase summary of various customers for selected high volume products
 This project leverages big data techniques to perform a comprehensive analysis of customer behavior. The analysis includes data cleaning, visualization, and extraction of business insights to support strategic decision-making in marketing, inventory management, and customer retention.The main feature of this project is the use of multidimensional scaling to analyze regional product category preferences.
 
+## Table of Contents
+
+1. [Dataset Description](#dataset-description)
+2. [Installation](#installation)
+3. [Features](#features)
+4. [Contributing](#contributing)
+5. [License](#license)
+6. [Contact Information](#contact-information)
+
 ## Dataset Description
 
 The dataset consists of the following columns:
